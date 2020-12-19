@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "chat"
+  "defaultProject": "chat",
+  "cli": {
+    "analytics": "5ad10240-da2d-44cf-aa74-4346ee63640f"
+  }
 }
